@@ -26,9 +26,9 @@ Welcome to **Ninja Game**, a web-based 2D action platformer where you play as a 
    ```sh
    cd ninja_game
    ```
-3. ## 🌍 Live Demo
+3.  🌍 Live Demo
 
-Play the game here: [Ninja Game](https://67c7610764e19fa046746bf9--2d-ninja-game.netlify.app/)
+   Play the game here: [Ninja Game](https://67c7610764e19fa046746bf9--2d-ninja-game.netlify.app/)
 
 ## 🛠 Technologies Used
 
